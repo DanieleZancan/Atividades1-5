@@ -106,7 +106,7 @@ def qual_interruptor():
       print("O interruptor de número 1 acende a lampada 1")
     if lamp2 == "acessa":
       print("A lâmpada 2 está acessa, então:")
-      print("O interruptor de número  acende a lampada 2")
+      print("O interruptor de número 2 acende a lampada 2")
     if lamp3 == "apagada e fria":
       print("A lâmpada 3 está apagada e fria, então:")
       print("O interruptor de número 3 acende a lampada 3")
